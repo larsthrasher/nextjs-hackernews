@@ -3,7 +3,7 @@ import Head from 'next/head';
 
 const Layout = ({ children, title, description  }) => (
   <div>
-  ``<Head>
+    <Head>
       <title>{title}</title>
       <meta name="description" />
     </Head>

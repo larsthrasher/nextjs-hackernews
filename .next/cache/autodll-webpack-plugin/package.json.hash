@@ -1,0 +1,1 @@
+{"name":"hacker-news","version":"1.0.0","description":"A Hacker New clone made with Next.js","main":"server.js","scripts":{"dev":"next"},"author":{"name":"Lars Thrasher"},"license":"ISC","dependencies":{"isomorphic-fetch":"^2.2.1","next":"^9.2.2","react":"^16.13.0","react-dom":"^16.13.0"},"readme":"ERROR: No README data found!","_id":"hacker-news@1.0.0"}
